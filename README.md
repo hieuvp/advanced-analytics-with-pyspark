@@ -1,14 +1,17 @@
-## Python translation "Advanced Analytics with Spark Source Code"
+# Python translation "Advanced Analytics with Spark Source Code"
 
-### Introduction
+[Code to accompany Advanced Analytics with Spark](https://github.com/sryza/aas)
+
+## Introduction
+
 This repo contains a translation of the source codes used in Spark advanced analysis from scala to python (pyspark).
 This repo is maintained with the intention of being a collection for templates for analyses for rapid customization and deployment.
 
+## File Tree
 
-### File Tree
 ```
 /
-├── ch02-intro       : Introduction to PySpark 
+├── ch02-intro       : Introduction to PySpark
 ├── ch03-recommender : Recommender system
 ├── ch04-rdf         : Predictor system
 ├── ch05-kmeans      : Anomaly detector system
@@ -19,6 +22,3 @@ This repo is maintained with the intention of being a collection for templates f
 ├── ch10-genomics	 : Genomics data analysis
 └── ch11-neuro		 : Imaging data analysis
 ```
-
-note: /aas_scala contains the original source code copied from https://github.com/rohitghatol/Advanced-Analytics-with-Spark-from-O-Reilly-Media
-
